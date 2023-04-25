@@ -2,7 +2,7 @@ function introductionForm() {
 	var firstName = document.getElementById("first-name").value;
 	var middleInitial   = document.getElementById("middle-initial").value;
 	var lastName  = document.getElementById("last-name").value;
-	document.getElementById("greeting").innerHTML =  `Welcome to Live 360!, ${firstName} ${middleInitial}. ${lastName}!`;
+	document.getElementById("greeting").innerHTML =  `Laura Rios Records Management!, ${firstName} ${middleInitial}. ${lastName}!`;
 		
 	// LOOP MESSAGE 
  
